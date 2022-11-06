@@ -9,7 +9,7 @@ Getting started
 Is this your first time using the library? This is the place to get started!
 
 - **First steps:** :doc:`intro` | :doc:`quickstart`
-- **Working with Uptobox:** :doc:`token` | :doc:`doc`
+- **Working with Uptobox:** :doc:`token` | `doc <https://docs.uptobox.com/>`_
 - **Examples:** Many examples are available in the `repository <https://github.com/ArticOff/uptobox/tree/main/examples/>`_
 
 Getting help
