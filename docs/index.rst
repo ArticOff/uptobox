@@ -1,7 +1,7 @@
 Welcome to Uptobox
 ===========================
 
-Uptobox.py is a simple API wrapper for `Uptobox <https:/uptobox.com/>`_.
+Uptobox.py is a simple API wrapper for `Uptobox <https://uptobox.com/>`_.
 
 Getting started
 -----------------
