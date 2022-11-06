@@ -24,4 +24,7 @@ Meta
 
 If you're looking for something related to the project itself, it's here.
 
-- :doc:`whats_new`
+.. toctree::
+  :maxdepth: 1
+
+  whats_new
