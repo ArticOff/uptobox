@@ -1,3 +1,6 @@
+.. image:: images/utbpy.png
+      :width: 80
+
 Welcome to Uptobox
 ===========================
 
