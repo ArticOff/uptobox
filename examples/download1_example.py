@@ -1,6 +1,5 @@
 from uptobox import (
-    Client,
-    ClientError
+    Client
 )
 
 client = Client(
