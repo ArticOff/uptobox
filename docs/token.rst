@@ -19,7 +19,7 @@ To get your token, you need to follow these steps
     .. image:: images/token-step3.png
       :width: 1000
 
-5. Click on the copy icon to the right of "Token".
+5. Click on the "Token" button.
 
     .. image:: images/token-step4.png
       :width: 500
