@@ -4,6 +4,17 @@ Changelog
 This page keeps a detailed human friendly rendering of what's new and changed
 in specific versions
 
+v1.1.0
+-------
+
+New Features
+~~~~~~~~~~~~~~
+- Add the variable ``File.streamURL`` to get the stream URL of the file
+
+Other
+~~~~~~~~~~~~~~
+- Optimization
+
 v1.0.6
 -------
 
