@@ -35,7 +35,7 @@ client = Client(
 @client.listen()
 def on_connect():
     print(f"Connected to {client.user.name}")
-    file = client.fetchFile("e9hrkzrylk58")
+    file = client.fetchFile("abcdefghi123")
     print(file.name)
     client.upload("myfile.txt")
 
